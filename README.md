@@ -26,3 +26,8 @@ This repo created for analyze AdventureWorks Database sales and for visulation t
 - Microsoft SQL Server Management Studio (SSMS)
 - Microsoft PowerBi 
 - [AdventureWorks DB 2019.bak](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+
+### Sources
+- [DATEPART Function](https://learn.microsoft.com/en-us/sql/t-sql/functions/datepart-transact-sql?view=sql-server-ver16)
+- [CONVERT Function](https://learn.microsoft.com/en-us/sql/t-sql/functions/cast-and-convert-transact-sql?view=sql-server-ver16)
+- [Wildcard](https://learn.microsoft.com/en-us/sql/t-sql/language-elements/wildcard-character-s-to-match-transact-sql?view=sql-server-ver16)
