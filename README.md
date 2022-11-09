@@ -4,14 +4,14 @@ Microsoft AdventureWorks Database analysis using MS SQL Server and visualization
 This repo created to analyze AdventureWorks Database sales and to visualize the analysis.
 
 ### DashBoard KPIs:
-  1. Total Sales Amount
-  2. Total Order Quantity
-  3. Average Money Spent on an Order 
-  4. Total Sales in the Second Quarter of Each Year 
-  5. Sales Performance by Year
-  6. Total Order Amount of Categories by Year
-  7. Total Sales for Each Product Category
-  8. Total Sales Amount of Sub-Categories of Bike Category (Best sales performance in categories)
+  1. [Total Sales Amount](https://github.com/miraytopal/AdventureWorks-DB-SQL-Queries-and-PowerBi/blob/main/sales-dashboard-SQL-scripts/total-sales.sql)
+  2. [Total Order Quantity](https://github.com/miraytopal/AdventureWorks-DB-SQL-Queries-and-PowerBi/blob/main/sales-dashboard-SQL-scripts/total-order-quantity.sql)
+  3. [Average Money Spent on an Order](https://github.com/miraytopal/AdventureWorks-DB-SQL-Queries-and-PowerBi/blob/main/sales-dashboard-SQL-scripts/avg-spent-money.sql)
+  4. [Total Sales in the Second Quarter of Each Year](https://github.com/miraytopal/AdventureWorks-DB-SQL-Queries-and-PowerBi/blob/main/sales-dashboard-SQL-scripts/total-sales-second-quarter-year.sql) 
+  5. [Sales Performance by Year](https://github.com/miraytopal/AdventureWorks-DB-SQL-Queries-and-PowerBi/blob/main/sales-dashboard-SQL-scripts/sales-by-year.sql)
+  6. [Total Order Amount of Categories by Year](https://github.com/miraytopal/AdventureWorks-DB-SQL-Queries-and-PowerBi/blob/main/sales-dashboard-SQL-scripts/order-amount-categories-by-year.sql)
+  7. [Total Sales for Each Product Category](https://github.com/miraytopal/AdventureWorks-DB-SQL-Queries-and-PowerBi/blob/main/sales-dashboard-SQL-scripts/total-sales-by-category.sql)
+  8. [Total Sales Amount of Sub-Categories of Bike Category (Best sales performance in categories)](https://github.com/miraytopal/AdventureWorks-DB-SQL-Queries-and-PowerBi/blob/main/sales-dashboard-SQL-scripts/total-sales-sub-top-selling-category.sql)
 
 ### Available Visuals in DashBoard:
   - Card (KPIs: 1,2,3)
