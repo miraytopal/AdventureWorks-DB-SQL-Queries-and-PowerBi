@@ -38,6 +38,7 @@ This repo created to analyze AdventureWorks Database sales and to visualize the 
 Clone the repo
 
 ```$ git clone https://github.com/miraytopal/AdventureWorks-DB-SQL-Queries-and-PowerBi```
+- [Download to AdventureWorks DB 2019.bak file](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
 
 - Install AdventureWorks database on SQL Server
 
