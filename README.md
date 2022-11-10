@@ -53,5 +53,7 @@ Clone the repo
   - DATEPART Function: https://learn.microsoft.com/en-us/sql/t-sql/functions/datepart-transact-sql?view=sql-server-ver16
   - CONVERT Function: https://learn.microsoft.com/en-us/sql/t-sql/functions/cast-and-convert-transact-sql?view=sql-server-ver16
   - Wildcard: https://learn.microsoft.com/en-us/sql/t-sql/language-elements/wildcard-character-s-to-match-transact-sql?view=sql-server-ver16
-  
-  
+ 
+## 
+#### Contributions are welcome here! ✨💪
+
