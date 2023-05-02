@@ -24,11 +24,11 @@ This repo created to analyze AdventureWorks Database sales and to visualize the 
   
  ![sales-dashboard--repo](https://user-images.githubusercontent.com/75898277/200829683-6443bf64-c8fd-4706-a7a0-eb600df0927b.png)
 
-## Prerequirenment
+## Prerequirement
 
 - [AdventureWorks DB 2019.bak](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
 
-## Requirenments
+## Requirements
 
 - Microsoft SQL Server Management Studio (SSMS)
 - Microsoft PowerBi 
